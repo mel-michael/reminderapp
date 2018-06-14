@@ -1,0 +1,20 @@
+const dataList = [
+  {
+    title: 'name',
+    data: 'amazing',
+    status: 'completed'
+  },
+  {
+    title: 'name',
+    date: 'amazing',
+    status: 'uncompleted'
+  },
+  {
+    title: 'name',
+    body: 'amazing',
+    status: 'uncompleted'
+  }
+];
+
+
+export default dataList;
